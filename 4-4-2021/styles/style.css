@@ -1,4 +1,4 @@
-* {
+	* {
     font-family: sans-serif;
 }
 
@@ -24,7 +24,7 @@ body {
 }
 
 .section-left .image-text {
-    position: absolute;
+    position: absolute;	
     bottom: 50px;
     text-align: center;
     width: 49%;
